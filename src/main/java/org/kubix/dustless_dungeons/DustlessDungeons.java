@@ -6,7 +6,7 @@ public final class DustlessDungeons extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
+        System.out.println("Say hi to git");
 
     }
 
