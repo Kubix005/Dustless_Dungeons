@@ -1,0 +1,7 @@
+name: Dustless Dungeons
+version: '${project.version}'
+main: org.kubix.dustless_dungeons.DustlessDungeons
+api-version: '1.20'
+load: STARTUP
+authors: [Kubix005]
+description: The rooms were more than ready for your arrival
